@@ -3,7 +3,7 @@
 
 List of useful and/or interesting government datasets, with a current emphasis on API's and the US federal government.
 
-Initial collection is built on a US and California list but repo is not limited to these geographies.
+This initial collection is built on a US and California list but the intention is that this repo is not limited to these geographies.
 
 | Thumbnails| | | |
 | --- | --- | --- | --- |
