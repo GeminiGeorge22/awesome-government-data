@@ -1,7 +1,7 @@
 
 # Awesome Government Data
 
-List of useful and/or interesting datasets, API's and tools relating to government data.
+List of useful and/or interesting government datasets, with a current emphasis on API's and the US federal government.
 
 Initial collection is built on a US and California list but repo is not limited to these geographies.
 
